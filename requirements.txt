@@ -1,0 +1,8 @@
+
+streamlit
+yt-dlp
+faster-whisper
+deep-translator
+moviepy
+opencv-python-headless
+Pillow
